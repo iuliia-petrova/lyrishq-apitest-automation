@@ -1,0 +1,4 @@
+/**
+ * This is sample attachment file.
+ * To be removed or replaced.
+ */

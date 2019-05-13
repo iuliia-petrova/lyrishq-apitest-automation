@@ -1,0 +1,6 @@
+#This is the default environment settings.
+#If you want to make a special environment requests, Create a new file application.{environment name}.yml
+api:
+  baseUrl: "https://api.qa.lyris.com/"
+restAssuredSettings:
+  debugMode: "true"

@@ -1,0 +1,23 @@
+#This is the default environment credentials.
+#If you want to make a special environment requests, Create a new file {environment name}-config.yml
+userInfo:
+  - role: USER
+    id: 0
+    password: 123TestTest
+    username: juan.torres
+#  - role: ACCOUNT_MANAGER
+#    id: 34618
+#    password: test1234
+#    username: mircea.strugaru@gmail.com
+#  - role: RECRUITER
+#    id: 1456339
+#    password: ""
+#    username: ""
+#  - role: CANDIDATE
+#    id: 1
+#    password: test1234
+#    username: crossover2011@gmail.com
+#  - role: MANAGER
+#    id: 0
+#    password: test1234
+#    username: maxim.kozlenko@crossover.com

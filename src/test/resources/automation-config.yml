@@ -1,0 +1,5 @@
+roles:
+  USER:
+    id: 0
+    password: 123TestTest
+    username: juan.torres
